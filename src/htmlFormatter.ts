@@ -15,6 +15,14 @@ export const htmlFormatterSettings = {
     selectionInput: 5,
     objectType: 'htmlFormatterSetting',
   },
+    br: {
+    des: '<br>',
+    symbol: '<br>',
+    shift: 5,
+    selectionInput: 5,
+    objectType: 'htmlFormatterSetting',
+  },
+  div:
   div: {
     des: '<div>',
     symbol: '<div></div>',
